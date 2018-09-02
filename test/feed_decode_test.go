@@ -15,7 +15,7 @@
  *    along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package go_mixcloud
+package test
 
 import (
 	"encoding/json"
@@ -24,6 +24,8 @@ import (
 	"os"
 	"strings"
 	"testing"
+
+	"github.com/horrendus/go-mixcloud/mixcloud"
 )
 
 func TestParsingJsonInFeedStruct(t *testing.T) {
@@ -32,7 +34,7 @@ func TestParsingJsonInFeedStruct(t *testing.T) {
 		fmt.Printf("File error: %v\n", e)
 		os.Exit(1)
 	}
-	var feed Feed
+	var feed mixcloud.Feed
 	err := json.NewDecoder(strings.NewReader(string(file))).Decode(&feed)
 	if err != nil {
 		t.Log(err)
