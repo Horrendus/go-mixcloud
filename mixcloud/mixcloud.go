@@ -21,9 +21,11 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
+	"github.com/google/go-querystring/query"
 	"io"
 	"net/http"
 	"net/url"
+	"reflect"
 )
 
 type Client struct {
@@ -74,4 +76,31 @@ func (c *Client) do(req *http.Request, v interface{}) (*http.Response, error) {
 	defer resp.Body.Close()
 	err = json.NewDecoder(resp.Body).Decode(v)
 	return resp, err
+}
+
+func addListOptions(s string, opt ListOptions) (string, error) {
+	v := reflect.ValueOf(opt)
+	if v.Kind() == reflect.Ptr && v.IsNil() {
+		return s, nil
+	}
+
+	u, err := url.Parse(s)
+	if err != nil {
+		return s, err
+	}
+	if opt.Limit == 0 {
+		opt.Limit = 100
+	}
+	if !opt.Since.IsZero() || !opt.Until.IsZero() {
+		fmt.Println("Resetting offset to 0. Before:", opt.Offset)
+		opt.Offset = 0
+	}
+
+	qs, err := query.Values(opt)
+	if err != nil {
+		return s, err
+	}
+
+	u.RawQuery = qs.Encode()
+	return u.String(), nil
 }
