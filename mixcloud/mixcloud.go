@@ -20,6 +20,7 @@ package mixcloud
 import (
 	"bytes"
 	"encoding/json"
+	"fmt"
 	"io"
 	"net/http"
 	"net/url"
@@ -32,9 +33,19 @@ type Client struct {
 	httpClient *http.Client
 }
 
+func NewClient(httpClient *http.Client) *Client {
+	if httpClient == nil {
+		httpClient = http.DefaultClient
+	}
+	baseURL, _ := url.Parse("https://api.mixcloud.com/")
+	c := &Client {httpClient: httpClient, BaseURL: baseURL}
+	return c
+}
+
 func (c *Client) newRequest(method, path string, body interface{}) (*http.Request, error) {
 	rel := &url.URL{Path: path}
 	u := c.BaseURL.ResolveReference(rel)
+	fmt.Println(u)
 	var buf io.ReadWriter
 	if body != nil {
 		buf = new(bytes.Buffer)
@@ -61,7 +72,6 @@ func (c *Client) do(req *http.Request, v interface{}) (*http.Response, error) {
 		return nil, err
 	}
 	defer resp.Body.Close()
-	// this needs to be changed for the paginated API
 	err = json.NewDecoder(resp.Body).Decode(v)
 	return resp, err
 }

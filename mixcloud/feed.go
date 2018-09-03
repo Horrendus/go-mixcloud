@@ -18,11 +18,25 @@
 package mixcloud
 
 import (
+	"fmt"
 	"time"
 )
 
+func (c* Client) GetFeed(name string) (*Feed, error) {
+	url := fmt.Sprintf("%v/feed/", name)
+	fmt.Println(url)
+	req, err := c.newRequest("GET", url, nil)
+	if err != nil {
+		return nil, err
+	}
+	var feed Feed
+	_, err = c.do(req, &feed)
+	return &feed, err
+}
+
 type Feed struct {
-	Data []FeedData
+	Paging	Link		`json:"paging,Link"`
+	Data	[]FeedData
 }
 
 type FeedData struct {

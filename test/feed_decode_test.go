@@ -28,20 +28,39 @@ import (
 	"github.com/horrendus/go-mixcloud/mixcloud"
 )
 
-func TestParsingJsonInFeedStruct(t *testing.T) {
-	file, e := ioutil.ReadFile("./testdata/feed.json")
+func TestParsingFeedStruct(t *testing.T) {
+	var feed mixcloud.Feed
+	readFileAndDecodeToFeed("./testdata/feed.json", &feed, t)
+	fmt.Println("Paging Prev:", feed.Paging.PreviousURL)
+	fmt.Println("Paging Next:", feed.Paging.NextURL)
+	fmt.Println("Data Length:", len(feed.Data))
+}
+
+func TestParsingFeedStructWithoutNext(t *testing.T) {
+	var feed mixcloud.Feed
+	readFileAndDecodeToFeed("./testdata/feed_without_next.json", &feed, t)
+	fmt.Println("Paging Prev:", feed.Paging.PreviousURL)
+	fmt.Println("Paging Next:", feed.Paging.NextURL, feed.Paging.NextURL == "")
+	fmt.Println("Data Length:", len(feed.Data))
+}
+
+func TestParsingFeedStructEmpty(t *testing.T) {
+	var feed mixcloud.Feed
+	readFileAndDecodeToFeed("./testdata/feed_empty.json", &feed, t)
+	fmt.Println("Paging Prev:", feed.Paging.PreviousURL, feed.Paging.PreviousURL == "")
+	fmt.Println("Paging Next:", feed.Paging.NextURL, feed.Paging.NextURL == "")
+	fmt.Println("Data Length:", len(feed.Data))
+}
+
+func readFileAndDecodeToFeed(fileName string, feed *mixcloud.Feed, t *testing.T) {
+	file, e := ioutil.ReadFile(fileName)
 	if e != nil {
 		fmt.Printf("File error: %v\n", e)
 		os.Exit(1)
 	}
-	var feed mixcloud.Feed
-	err := json.NewDecoder(strings.NewReader(string(file))).Decode(&feed)
+	err := json.NewDecoder(strings.NewReader(string(file))).Decode(feed)
 	if err != nil {
 		t.Log(err)
 		t.Fail()
-	} else {
-		for _, feedData := range feed.Data {
-			fmt.Println(feedData.Key, feedData.URL, feedData.CreatedTime)
-		}
 	}
 }
