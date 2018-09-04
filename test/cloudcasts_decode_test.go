@@ -34,13 +34,14 @@ func TestParsingCloudcastsStruct(t *testing.T) {
 	fmt.Println("Paging Prev:", Cloudcasts.Paging.PreviousURL)
 	fmt.Println("Paging Next:", Cloudcasts.Paging.NextURL)
 	fmt.Println("Data Length:", len(Cloudcasts.Data))
+	fmt.Printf("%+v\n", Cloudcasts.Data[0])
 }
 
 func TestParsingCloudcastsStructWithoutNext(t *testing.T) {
 	var Cloudcasts mixcloud.Cloudcasts
 	readFileAndDecodeToCloudcasts("./testdata/cloudcasts_without_next.json", &Cloudcasts, t)
 	fmt.Println("Paging Prev:", Cloudcasts.Paging.PreviousURL)
-	fmt.Println("Paging Next:", Cloudcasts.Paging.NextURL, Cloudcasts.Paging.NextURL == "")
+	fmt.Println("Paging Next:", Cloudcasts.Paging.NextURL, "Next Empty:", Cloudcasts.Paging.NextURL == "")
 	fmt.Println("Data Length:", len(Cloudcasts.Data))
 }
 

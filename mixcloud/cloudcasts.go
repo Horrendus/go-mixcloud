@@ -39,7 +39,21 @@ type Cloudcasts struct {
 }
 
 type CloudcastData struct {
-	URL       	string		`json:"url"`
-	CreatedTime	time.Time	`json:"created_time,string"`
-	Key			string 		`json:"key"`
+	Name			string		`jsn:"name"`
+	URL       		string		`json:"url"`
+
+	CreatedTime		time.Time	`json:"created_time,string"`
+	UpdatedTime		time.Time	`json:"updated_time,string"`
+
+	Slug			string		`json:"slug"`
+	Key				string 		`json:"key"`
+
+	AudioLength		int			`json:"audio_length"`
+
+	PlayCount		int			`json:"play_count"`
+	ListenerCount	int			`json:"listener_count"`
+	FavoriteCount	int			`json:"favorite_count"`
+	CommentCount	int			`json:"comment_count"`
+	RepostCount		int			`json:"repost_count"`
+
 }
