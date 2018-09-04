@@ -1,0 +1,1363 @@
+{
+    "paging": {
+        "previous": "http://api.mixcloud.com/brooklynradio/cloudcasts/?limit=20&since=2018-09-04+01%3A18%3A45", 
+        "next": "http://api.mixcloud.com/brooklynradio/cloudcasts/?limit=20&until=2018-07-25+00%3A25%3A09"
+    }, 
+    "data": [
+        {
+            "tags": [
+                {
+                    "url": "https://www.mixcloud.com/discover/jazz/", 
+                    "name": "Jazz", 
+                    "key": "/discover/jazz/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/broken-beat/", 
+                    "name": "Broken beat", 
+                    "key": "/discover/broken-beat/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/beats/", 
+                    "name": "Beats", 
+                    "key": "/discover/beats/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/soul/", 
+                    "name": "Soul", 
+                    "key": "/discover/soul/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/roots-reggae/", 
+                    "name": "Roots reggae", 
+                    "key": "/discover/roots-reggae/"
+                }
+            ], 
+            "play_count": 641, 
+            "user": {
+                "url": "https://www.mixcloud.com/brooklynradio/", 
+                "username": "brooklynradio", 
+                "name": "Brooklyn Radio", 
+                "key": "/brooklynradio/", 
+                "pictures": {
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg"
+                }
+            }, 
+            "key": "/brooklynradio/fresh-taste-57/", 
+            "created_time": "2018-09-04T01:18:45Z", 
+            "audio_length": 7141, 
+            "slug": "fresh-taste-57", 
+            "favorite_count": 70, 
+            "listener_count": 286, 
+            "name": "Fresh Taste #57", 
+            "url": "https://www.mixcloud.com/brooklynradio/fresh-taste-57/", 
+            "pictures": {
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/a/1/f/8/8dc9-d88c-49f0-8aed-82cd283e0c4e", 
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/a/1/f/8/8dc9-d88c-49f0-8aed-82cd283e0c4e", 
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/a/1/f/8/8dc9-d88c-49f0-8aed-82cd283e0c4e", 
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/a/1/f/8/8dc9-d88c-49f0-8aed-82cd283e0c4e", 
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/a/1/f/8/8dc9-d88c-49f0-8aed-82cd283e0c4e", 
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/a/1/f/8/8dc9-d88c-49f0-8aed-82cd283e0c4e", 
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/a/1/f/8/8dc9-d88c-49f0-8aed-82cd283e0c4e", 
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/a/1/f/8/8dc9-d88c-49f0-8aed-82cd283e0c4e", 
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/a/1/f/8/8dc9-d88c-49f0-8aed-82cd283e0c4e", 
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/a/1/f/8/8dc9-d88c-49f0-8aed-82cd283e0c4e"
+            }, 
+            "repost_count": 18, 
+            "updated_time": "2018-09-04T01:15:57Z", 
+            "comment_count": 5
+        }, 
+        {
+            "tags": [
+                {
+                    "url": "https://www.mixcloud.com/discover/soul/", 
+                    "name": "Soul", 
+                    "key": "/discover/soul/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/jazz/", 
+                    "name": "Jazz", 
+                    "key": "/discover/jazz/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/beats/", 
+                    "name": "Beats", 
+                    "key": "/discover/beats/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/disco/", 
+                    "name": "Disco", 
+                    "key": "/discover/disco/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/brazil/", 
+                    "name": "Brazil", 
+                    "key": "/discover/brazil/"
+                }
+            ], 
+            "play_count": 1202, 
+            "user": {
+                "url": "https://www.mixcloud.com/brooklynradio/", 
+                "username": "brooklynradio", 
+                "name": "Brooklyn Radio", 
+                "key": "/brooklynradio/", 
+                "pictures": {
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg"
+                }
+            }, 
+            "key": "/brooklynradio/oonops-drops-brazilian-rhymes/", 
+            "created_time": "2018-09-03T00:22:05Z", 
+            "audio_length": 5701, 
+            "slug": "oonops-drops-brazilian-rhymes", 
+            "favorite_count": 115, 
+            "listener_count": 473, 
+            "name": "Oonops Drops - Brazilian Rhymes", 
+            "url": "https://www.mixcloud.com/brooklynradio/oonops-drops-brazilian-rhymes/", 
+            "pictures": {
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/e/8/a/1/6717-8ecd-4128-aeab-ff07b043d0f4", 
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/e/8/a/1/6717-8ecd-4128-aeab-ff07b043d0f4", 
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/e/8/a/1/6717-8ecd-4128-aeab-ff07b043d0f4", 
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/e/8/a/1/6717-8ecd-4128-aeab-ff07b043d0f4", 
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/e/8/a/1/6717-8ecd-4128-aeab-ff07b043d0f4", 
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/e/8/a/1/6717-8ecd-4128-aeab-ff07b043d0f4", 
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/e/8/a/1/6717-8ecd-4128-aeab-ff07b043d0f4", 
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/e/8/a/1/6717-8ecd-4128-aeab-ff07b043d0f4", 
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/e/8/a/1/6717-8ecd-4128-aeab-ff07b043d0f4", 
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/e/8/a/1/6717-8ecd-4128-aeab-ff07b043d0f4"
+            }, 
+            "repost_count": 24, 
+            "updated_time": "2018-09-03T00:15:41Z", 
+            "comment_count": 7
+        }, 
+        {
+            "tags": [
+                {
+                    "url": "https://www.mixcloud.com/discover/hip-hop/", 
+                    "name": "Hip hop", 
+                    "key": "/discover/hip-hop/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/beats/", 
+                    "name": "Beats", 
+                    "key": "/discover/beats/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/rb/", 
+                    "name": "R&b", 
+                    "key": "/discover/rb/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/soul/", 
+                    "name": "Soul", 
+                    "key": "/discover/soul/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/rap/", 
+                    "name": "Rap", 
+                    "key": "/discover/rap/"
+                }
+            ], 
+            "play_count": 1113, 
+            "user": {
+                "url": "https://www.mixcloud.com/brooklynradio/", 
+                "username": "brooklynradio", 
+                "name": "Brooklyn Radio", 
+                "key": "/brooklynradio/", 
+                "pictures": {
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg"
+                }
+            }, 
+            "key": "/brooklynradio/the-spotlight-first-word-records/", 
+            "created_time": "2018-08-30T00:35:58Z", 
+            "audio_length": 5435, 
+            "slug": "the-spotlight-first-word-records", 
+            "favorite_count": 73, 
+            "listener_count": 364, 
+            "name": "The Spotlight - First Word Records", 
+            "url": "https://www.mixcloud.com/brooklynradio/the-spotlight-first-word-records/", 
+            "pictures": {
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/6/2/b/6/05b9-72e9-4785-8d54-35b837d1cd16", 
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/6/2/b/6/05b9-72e9-4785-8d54-35b837d1cd16", 
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/6/2/b/6/05b9-72e9-4785-8d54-35b837d1cd16", 
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/6/2/b/6/05b9-72e9-4785-8d54-35b837d1cd16", 
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/6/2/b/6/05b9-72e9-4785-8d54-35b837d1cd16", 
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/6/2/b/6/05b9-72e9-4785-8d54-35b837d1cd16", 
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/6/2/b/6/05b9-72e9-4785-8d54-35b837d1cd16", 
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/6/2/b/6/05b9-72e9-4785-8d54-35b837d1cd16", 
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/2/b/6/05b9-72e9-4785-8d54-35b837d1cd16", 
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/6/2/b/6/05b9-72e9-4785-8d54-35b837d1cd16"
+            }, 
+            "repost_count": 19, 
+            "updated_time": "2018-08-30T00:30:31Z", 
+            "comment_count": 2
+        }, 
+        {
+            "tags": [
+                {
+                    "url": "https://www.mixcloud.com/discover/hip-hop/", 
+                    "name": "Hip hop", 
+                    "key": "/discover/hip-hop/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/rap/", 
+                    "name": "Rap", 
+                    "key": "/discover/rap/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/hip-hoprap/", 
+                    "name": "Hip-Hop/Rap", 
+                    "key": "/discover/hip-hoprap/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/underground-hip-hop/", 
+                    "name": "Underground Hip Hop", 
+                    "key": "/discover/underground-hip-hop/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/the-radio-edit/", 
+                    "name": "The radio edit", 
+                    "key": "/discover/the-radio-edit/"
+                }
+            ], 
+            "play_count": 2088, 
+            "user": {
+                "url": "https://www.mixcloud.com/brooklynradio/", 
+                "username": "brooklynradio", 
+                "name": "Brooklyn Radio", 
+                "key": "/brooklynradio/", 
+                "pictures": {
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg"
+                }
+            }, 
+            "key": "/brooklynradio/radio-edit-116-summer-on-lock/", 
+            "created_time": "2018-08-28T23:49:03Z", 
+            "audio_length": 3603, 
+            "slug": "radio-edit-116-summer-on-lock", 
+            "favorite_count": 104, 
+            "listener_count": 708, 
+            "name": "Radio Edit 116 - Summer On Lock", 
+            "url": "https://www.mixcloud.com/brooklynradio/radio-edit-116-summer-on-lock/", 
+            "pictures": {
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/2/e/9/d/12f8-2480-45d2-a067-a125e90bd68f", 
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/2/e/9/d/12f8-2480-45d2-a067-a125e90bd68f", 
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/2/e/9/d/12f8-2480-45d2-a067-a125e90bd68f", 
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/2/e/9/d/12f8-2480-45d2-a067-a125e90bd68f", 
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/2/e/9/d/12f8-2480-45d2-a067-a125e90bd68f", 
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/2/e/9/d/12f8-2480-45d2-a067-a125e90bd68f", 
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/2/e/9/d/12f8-2480-45d2-a067-a125e90bd68f", 
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/2/e/9/d/12f8-2480-45d2-a067-a125e90bd68f", 
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/e/9/d/12f8-2480-45d2-a067-a125e90bd68f", 
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/2/e/9/d/12f8-2480-45d2-a067-a125e90bd68f"
+            }, 
+            "repost_count": 29, 
+            "updated_time": "2018-08-28T23:44:01Z", 
+            "comment_count": 4
+        }, 
+        {
+            "tags": [
+                {
+                    "url": "https://www.mixcloud.com/discover/hip-hop/", 
+                    "name": "Hip hop", 
+                    "key": "/discover/hip-hop/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/culture/", 
+                    "name": "Culture", 
+                    "key": "/discover/culture/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/podcast/", 
+                    "name": "Podcast", 
+                    "key": "/discover/podcast/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/talk-show/", 
+                    "name": "Talk show", 
+                    "key": "/discover/talk-show/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/leschea-show/", 
+                    "name": "Leschea Show", 
+                    "key": "/discover/leschea-show/"
+                }
+            ], 
+            "play_count": 301, 
+            "user": {
+                "url": "https://www.mixcloud.com/brooklynradio/", 
+                "username": "brooklynradio", 
+                "name": "Brooklyn Radio", 
+                "key": "/brooklynradio/", 
+                "pictures": {
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg"
+                }
+            }, 
+            "key": "/brooklynradio/rips-and-vmas-leschea-show/", 
+            "created_time": "2018-08-28T01:00:26Z", 
+            "audio_length": 3643, 
+            "slug": "rips-and-vmas-leschea-show", 
+            "favorite_count": 14, 
+            "listener_count": 45, 
+            "name": "RIPs and VMAs (Leschea Show)", 
+            "url": "https://www.mixcloud.com/brooklynradio/rips-and-vmas-leschea-show/", 
+            "pictures": {
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/d/d/2/0/2d6f-0245-48d1-aeea-75c90f43fbce", 
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/d/d/2/0/2d6f-0245-48d1-aeea-75c90f43fbce", 
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/d/d/2/0/2d6f-0245-48d1-aeea-75c90f43fbce", 
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/d/d/2/0/2d6f-0245-48d1-aeea-75c90f43fbce", 
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/d/d/2/0/2d6f-0245-48d1-aeea-75c90f43fbce", 
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/d/d/2/0/2d6f-0245-48d1-aeea-75c90f43fbce", 
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/d/d/2/0/2d6f-0245-48d1-aeea-75c90f43fbce", 
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/d/d/2/0/2d6f-0245-48d1-aeea-75c90f43fbce", 
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/d/2/0/2d6f-0245-48d1-aeea-75c90f43fbce", 
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/d/d/2/0/2d6f-0245-48d1-aeea-75c90f43fbce"
+            }, 
+            "repost_count": 5, 
+            "updated_time": "2018-08-28T00:57:43Z", 
+            "comment_count": 0
+        }, 
+        {
+            "tags": [
+                {
+                    "url": "https://www.mixcloud.com/discover/hip-hop/", 
+                    "name": "Hip hop", 
+                    "key": "/discover/hip-hop/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/rap/", 
+                    "name": "Rap", 
+                    "key": "/discover/rap/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/beats/", 
+                    "name": "Beats", 
+                    "key": "/discover/beats/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/bass/", 
+                    "name": "Bass", 
+                    "key": "/discover/bass/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/rnbhip-hop/", 
+                    "name": "RnB/Hip Hop", 
+                    "key": "/discover/rnbhip-hop/"
+                }
+            ], 
+            "play_count": 5351, 
+            "user": {
+                "url": "https://www.mixcloud.com/brooklynradio/", 
+                "username": "brooklynradio", 
+                "name": "Brooklyn Radio", 
+                "key": "/brooklynradio/", 
+                "pictures": {
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg"
+                }
+            }, 
+            "key": "/brooklynradio/hip-hop-journal-episode-28-w-dj-stikmand/", 
+            "created_time": "2018-08-27T00:00:02Z", 
+            "audio_length": 3599, 
+            "slug": "hip-hop-journal-episode-28-w-dj-stikmand", 
+            "favorite_count": 222, 
+            "listener_count": 1405, 
+            "name": "Hip Hop Journal Episode 28 w/ DJ Stikmand", 
+            "url": "https://www.mixcloud.com/brooklynradio/hip-hop-journal-episode-28-w-dj-stikmand/", 
+            "pictures": {
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/c/4/d/2/b9c9-2cbd-47e8-a207-3206338c3bf3", 
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/c/4/d/2/b9c9-2cbd-47e8-a207-3206338c3bf3", 
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/c/4/d/2/b9c9-2cbd-47e8-a207-3206338c3bf3", 
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/c/4/d/2/b9c9-2cbd-47e8-a207-3206338c3bf3", 
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/c/4/d/2/b9c9-2cbd-47e8-a207-3206338c3bf3", 
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/c/4/d/2/b9c9-2cbd-47e8-a207-3206338c3bf3", 
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/c/4/d/2/b9c9-2cbd-47e8-a207-3206338c3bf3", 
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/c/4/d/2/b9c9-2cbd-47e8-a207-3206338c3bf3", 
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/c/4/d/2/b9c9-2cbd-47e8-a207-3206338c3bf3", 
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/c/4/d/2/b9c9-2cbd-47e8-a207-3206338c3bf3"
+            }, 
+            "repost_count": 49, 
+            "updated_time": "2018-08-26T23:56:01Z", 
+            "comment_count": 6
+        }, 
+        {
+            "tags": [
+                {
+                    "url": "https://www.mixcloud.com/discover/rnb/", 
+                    "name": "R'N'B", 
+                    "key": "/discover/rnb/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/neo-soul/", 
+                    "name": "Neo Soul", 
+                    "key": "/discover/neo-soul/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/beats/", 
+                    "name": "Beats", 
+                    "key": "/discover/beats/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/instrumental/", 
+                    "name": "Instrumental", 
+                    "key": "/discover/instrumental/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/gospel/", 
+                    "name": "Gospel", 
+                    "key": "/discover/gospel/"
+                }
+            ], 
+            "play_count": 1614, 
+            "user": {
+                "url": "https://www.mixcloud.com/brooklynradio/", 
+                "username": "brooklynradio", 
+                "name": "Brooklyn Radio", 
+                "key": "/brooklynradio/", 
+                "pictures": {
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg"
+                }
+            }, 
+            "key": "/brooklynradio/hj7-blends-39-orion-anakaris/", 
+            "created_time": "2018-08-23T00:03:43Z", 
+            "audio_length": 3327, 
+            "slug": "hj7-blends-39-orion-anakaris", 
+            "favorite_count": 77, 
+            "listener_count": 561, 
+            "name": "HJ7 Blends #39 - Orion Anakaris", 
+            "url": "https://www.mixcloud.com/brooklynradio/hj7-blends-39-orion-anakaris/", 
+            "pictures": {
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/6/a/1/c/902a-c1a1-4450-88b2-3921ed9e458b", 
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/6/a/1/c/902a-c1a1-4450-88b2-3921ed9e458b", 
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/6/a/1/c/902a-c1a1-4450-88b2-3921ed9e458b", 
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/6/a/1/c/902a-c1a1-4450-88b2-3921ed9e458b", 
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/6/a/1/c/902a-c1a1-4450-88b2-3921ed9e458b", 
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/6/a/1/c/902a-c1a1-4450-88b2-3921ed9e458b", 
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/6/a/1/c/902a-c1a1-4450-88b2-3921ed9e458b", 
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/6/a/1/c/902a-c1a1-4450-88b2-3921ed9e458b", 
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/a/1/c/902a-c1a1-4450-88b2-3921ed9e458b", 
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/6/a/1/c/902a-c1a1-4450-88b2-3921ed9e458b"
+            }, 
+            "repost_count": 17, 
+            "updated_time": "2018-08-23T00:01:56Z", 
+            "comment_count": 0
+        }, 
+        {
+            "tags": [
+                {
+                    "url": "https://www.mixcloud.com/discover/hip-hop/", 
+                    "name": "Hip hop", 
+                    "key": "/discover/hip-hop/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/rap/", 
+                    "name": "Rap", 
+                    "key": "/discover/rap/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/rnb/", 
+                    "name": "R'N'B", 
+                    "key": "/discover/rnb/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/rnbhip-hop/", 
+                    "name": "RnB/Hip Hop", 
+                    "key": "/discover/rnbhip-hop/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/the-rub/", 
+                    "name": "The Rub", 
+                    "key": "/discover/the-rub/"
+                }
+            ], 
+            "play_count": 1668, 
+            "user": {
+                "url": "https://www.mixcloud.com/brooklynradio/", 
+                "username": "brooklynradio", 
+                "name": "Brooklyn Radio", 
+                "key": "/brooklynradio/", 
+                "pictures": {
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg"
+                }
+            }, 
+            "key": "/brooklynradio/rub-radio-august-2018-feat-kevlove/", 
+            "created_time": "2018-08-22T00:31:18Z", 
+            "audio_length": 2681, 
+            "slug": "rub-radio-august-2018-feat-kevlove", 
+            "favorite_count": 65, 
+            "listener_count": 585, 
+            "name": "Rub Radio (August 2018) feat. Kevlove", 
+            "url": "https://www.mixcloud.com/brooklynradio/rub-radio-august-2018-feat-kevlove/", 
+            "pictures": {
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/3/b/e/a/46ad-e625-4563-b5f3-2a522cb213b4", 
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/3/b/e/a/46ad-e625-4563-b5f3-2a522cb213b4", 
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/3/b/e/a/46ad-e625-4563-b5f3-2a522cb213b4", 
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/3/b/e/a/46ad-e625-4563-b5f3-2a522cb213b4", 
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/3/b/e/a/46ad-e625-4563-b5f3-2a522cb213b4", 
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/3/b/e/a/46ad-e625-4563-b5f3-2a522cb213b4", 
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/3/b/e/a/46ad-e625-4563-b5f3-2a522cb213b4", 
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/3/b/e/a/46ad-e625-4563-b5f3-2a522cb213b4", 
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/3/b/e/a/46ad-e625-4563-b5f3-2a522cb213b4", 
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/3/b/e/a/46ad-e625-4563-b5f3-2a522cb213b4"
+            }, 
+            "repost_count": 16, 
+            "updated_time": "2018-08-22T00:29:07Z", 
+            "comment_count": 0
+        }, 
+        {
+            "tags": [
+                {
+                    "url": "https://www.mixcloud.com/discover/interview/", 
+                    "name": "Interview", 
+                    "key": "/discover/interview/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/rnb/", 
+                    "name": "R'N'B", 
+                    "key": "/discover/rnb/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/culture/", 
+                    "name": "Culture", 
+                    "key": "/discover/culture/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/podcast/", 
+                    "name": "Podcast", 
+                    "key": "/discover/podcast/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/talk-show/", 
+                    "name": "Talk show", 
+                    "key": "/discover/talk-show/"
+                }
+            ], 
+            "play_count": 254, 
+            "user": {
+                "url": "https://www.mixcloud.com/brooklynradio/", 
+                "username": "brooklynradio", 
+                "name": "Brooklyn Radio", 
+                "key": "/brooklynradio/", 
+                "pictures": {
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg"
+                }
+            }, 
+            "key": "/brooklynradio/a-diamond-in-the-bricks-leschea-show/", 
+            "created_time": "2018-08-21T23:37:50Z", 
+            "audio_length": 3765, 
+            "slug": "a-diamond-in-the-bricks-leschea-show", 
+            "favorite_count": 10, 
+            "listener_count": 32, 
+            "name": "A Diamond in the Bricks (Leschea Show)", 
+            "url": "https://www.mixcloud.com/brooklynradio/a-diamond-in-the-bricks-leschea-show/", 
+            "pictures": {
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/0/f/7/8/2349-a3a7-4106-b33c-b8027d96648c", 
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/0/f/7/8/2349-a3a7-4106-b33c-b8027d96648c", 
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/0/f/7/8/2349-a3a7-4106-b33c-b8027d96648c", 
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/0/f/7/8/2349-a3a7-4106-b33c-b8027d96648c", 
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/0/f/7/8/2349-a3a7-4106-b33c-b8027d96648c", 
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/0/f/7/8/2349-a3a7-4106-b33c-b8027d96648c", 
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/0/f/7/8/2349-a3a7-4106-b33c-b8027d96648c", 
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/0/f/7/8/2349-a3a7-4106-b33c-b8027d96648c", 
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/0/f/7/8/2349-a3a7-4106-b33c-b8027d96648c", 
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/0/f/7/8/2349-a3a7-4106-b33c-b8027d96648c"
+            }, 
+            "repost_count": 1, 
+            "updated_time": "2018-08-21T23:32:27Z", 
+            "comment_count": 2
+        }, 
+        {
+            "tags": [
+                {
+                    "url": "https://www.mixcloud.com/discover/hip-hop/", 
+                    "name": "Hip hop", 
+                    "key": "/discover/hip-hop/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/talk-show/", 
+                    "name": "Talk show", 
+                    "key": "/discover/talk-show/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/podcast/", 
+                    "name": "Podcast", 
+                    "key": "/discover/podcast/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/culture/", 
+                    "name": "Culture", 
+                    "key": "/discover/culture/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/serious-rap-shit/", 
+                    "name": "Serious Rap Shit", 
+                    "key": "/discover/serious-rap-shit/"
+                }
+            ], 
+            "play_count": 1037, 
+            "user": {
+                "url": "https://www.mixcloud.com/brooklynradio/", 
+                "username": "brooklynradio", 
+                "name": "Brooklyn Radio", 
+                "key": "/brooklynradio/", 
+                "pictures": {
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg"
+                }
+            }, 
+            "key": "/brooklynradio/episode-69-ima-edit-that-out-serious-rap-sht-podcast/", 
+            "created_time": "2018-08-17T00:18:05Z", 
+            "audio_length": 5846, 
+            "slug": "episode-69-ima-edit-that-out-serious-rap-sht-podcast", 
+            "favorite_count": 27, 
+            "listener_count": 148, 
+            "name": "Episode 69: I'ma Edit That Out (Serious Rap Sh*t Podcast)", 
+            "url": "https://www.mixcloud.com/brooklynradio/episode-69-ima-edit-that-out-serious-rap-sht-podcast/", 
+            "pictures": {
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/0/2/f/8/c282-4070-44a3-9d97-31b0dec9cbd5", 
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/0/2/f/8/c282-4070-44a3-9d97-31b0dec9cbd5", 
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/0/2/f/8/c282-4070-44a3-9d97-31b0dec9cbd5", 
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/0/2/f/8/c282-4070-44a3-9d97-31b0dec9cbd5", 
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/0/2/f/8/c282-4070-44a3-9d97-31b0dec9cbd5", 
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/0/2/f/8/c282-4070-44a3-9d97-31b0dec9cbd5", 
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/0/2/f/8/c282-4070-44a3-9d97-31b0dec9cbd5", 
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/0/2/f/8/c282-4070-44a3-9d97-31b0dec9cbd5", 
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/0/2/f/8/c282-4070-44a3-9d97-31b0dec9cbd5", 
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/0/2/f/8/c282-4070-44a3-9d97-31b0dec9cbd5"
+            }, 
+            "repost_count": 7, 
+            "updated_time": "2018-08-17T00:17:07Z", 
+            "comment_count": 1
+        }, 
+        {
+            "tags": [
+                {
+                    "url": "https://www.mixcloud.com/discover/hip-hop/", 
+                    "name": "Hip hop", 
+                    "key": "/discover/hip-hop/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/talk-show/", 
+                    "name": "Talk show", 
+                    "key": "/discover/talk-show/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/podcast/", 
+                    "name": "Podcast", 
+                    "key": "/discover/podcast/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/culture/", 
+                    "name": "Culture", 
+                    "key": "/discover/culture/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/leschea-show/", 
+                    "name": "Leschea Show", 
+                    "key": "/discover/leschea-show/"
+                }
+            ], 
+            "play_count": 552, 
+            "user": {
+                "url": "https://www.mixcloud.com/brooklynradio/", 
+                "username": "brooklynradio", 
+                "name": "Brooklyn Radio", 
+                "key": "/brooklynradio/", 
+                "pictures": {
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg"
+                }
+            }, 
+            "key": "/brooklynradio/killer-curves-and-power-trips-leschea-show/", 
+            "created_time": "2018-08-14T03:56:22Z", 
+            "audio_length": 3902, 
+            "slug": "killer-curves-and-power-trips-leschea-show", 
+            "favorite_count": 16, 
+            "listener_count": 77, 
+            "name": "Killer Curves and Power Trips (Leschea Show)", 
+            "url": "https://www.mixcloud.com/brooklynradio/killer-curves-and-power-trips-leschea-show/", 
+            "pictures": {
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/6/7/a/2/acc0-dd5c-4fac-b788-b29a9a729d05", 
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/6/7/a/2/acc0-dd5c-4fac-b788-b29a9a729d05", 
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/6/7/a/2/acc0-dd5c-4fac-b788-b29a9a729d05", 
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/6/7/a/2/acc0-dd5c-4fac-b788-b29a9a729d05", 
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/6/7/a/2/acc0-dd5c-4fac-b788-b29a9a729d05", 
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/6/7/a/2/acc0-dd5c-4fac-b788-b29a9a729d05", 
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/6/7/a/2/acc0-dd5c-4fac-b788-b29a9a729d05", 
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/6/7/a/2/acc0-dd5c-4fac-b788-b29a9a729d05", 
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/7/a/2/acc0-dd5c-4fac-b788-b29a9a729d05", 
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/6/7/a/2/acc0-dd5c-4fac-b788-b29a9a729d05"
+            }, 
+            "repost_count": 6, 
+            "updated_time": "2018-08-14T03:53:37Z", 
+            "comment_count": 0
+        }, 
+        {
+            "tags": [
+                {
+                    "url": "https://www.mixcloud.com/discover/hip-hop/", 
+                    "name": "Hip hop", 
+                    "key": "/discover/hip-hop/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/beats/", 
+                    "name": "Beats", 
+                    "key": "/discover/beats/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/rap/", 
+                    "name": "Rap", 
+                    "key": "/discover/rap/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/bass/", 
+                    "name": "Bass", 
+                    "key": "/discover/bass/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/rnbhip-hop/", 
+                    "name": "RnB/Hip Hop", 
+                    "key": "/discover/rnbhip-hop/"
+                }
+            ], 
+            "play_count": 5628, 
+            "user": {
+                "url": "https://www.mixcloud.com/brooklynradio/", 
+                "username": "brooklynradio", 
+                "name": "Brooklyn Radio", 
+                "key": "/brooklynradio/", 
+                "pictures": {
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg"
+                }
+            }, 
+            "key": "/brooklynradio/hip-hop-journal-episode-27-w-dj-stikmand/", 
+            "created_time": "2018-08-08T00:36:36Z", 
+            "audio_length": 3594, 
+            "slug": "hip-hop-journal-episode-27-w-dj-stikmand", 
+            "favorite_count": 212, 
+            "listener_count": 1675, 
+            "name": "Hip Hop Journal Episode 27 w/ DJ Stikmand", 
+            "url": "https://www.mixcloud.com/brooklynradio/hip-hop-journal-episode-27-w-dj-stikmand/", 
+            "pictures": {
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/f/6/0/3/b46a-e430-4443-98da-88f238b25819", 
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/f/6/0/3/b46a-e430-4443-98da-88f238b25819", 
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/f/6/0/3/b46a-e430-4443-98da-88f238b25819", 
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/f/6/0/3/b46a-e430-4443-98da-88f238b25819", 
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/f/6/0/3/b46a-e430-4443-98da-88f238b25819", 
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/f/6/0/3/b46a-e430-4443-98da-88f238b25819", 
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/f/6/0/3/b46a-e430-4443-98da-88f238b25819", 
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/f/6/0/3/b46a-e430-4443-98da-88f238b25819", 
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/f/6/0/3/b46a-e430-4443-98da-88f238b25819", 
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/f/6/0/3/b46a-e430-4443-98da-88f238b25819"
+            }, 
+            "repost_count": 59, 
+            "updated_time": "2018-08-08T00:28:36Z", 
+            "comment_count": 5
+        }, 
+        {
+            "tags": [
+                {
+                    "url": "https://www.mixcloud.com/discover/hip-hop/", 
+                    "name": "Hip hop", 
+                    "key": "/discover/hip-hop/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/soul/", 
+                    "name": "Soul", 
+                    "key": "/discover/soul/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/funk/", 
+                    "name": "Funk", 
+                    "key": "/discover/funk/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/jazz/", 
+                    "name": "Jazz", 
+                    "key": "/discover/jazz/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/beats/", 
+                    "name": "Beats", 
+                    "key": "/discover/beats/"
+                }
+            ], 
+            "play_count": 6846, 
+            "user": {
+                "url": "https://www.mixcloud.com/brooklynradio/", 
+                "username": "brooklynradio", 
+                "name": "Brooklyn Radio", 
+                "key": "/brooklynradio/", 
+                "pictures": {
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg"
+                }
+            }, 
+            "key": "/brooklynradio/oonops-drops-in-the-sea/", 
+            "created_time": "2018-08-06T00:12:11Z", 
+            "audio_length": 8904, 
+            "slug": "oonops-drops-in-the-sea", 
+            "favorite_count": 330, 
+            "listener_count": 2457, 
+            "name": "Oonops Drops - In The Sea", 
+            "url": "https://www.mixcloud.com/brooklynradio/oonops-drops-in-the-sea/", 
+            "pictures": {
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/1/4/e/a/a446-dad4-4105-94f7-fecdd64e14b0", 
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/1/4/e/a/a446-dad4-4105-94f7-fecdd64e14b0", 
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/1/4/e/a/a446-dad4-4105-94f7-fecdd64e14b0", 
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/1/4/e/a/a446-dad4-4105-94f7-fecdd64e14b0", 
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/1/4/e/a/a446-dad4-4105-94f7-fecdd64e14b0", 
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/1/4/e/a/a446-dad4-4105-94f7-fecdd64e14b0", 
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/1/4/e/a/a446-dad4-4105-94f7-fecdd64e14b0", 
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/1/4/e/a/a446-dad4-4105-94f7-fecdd64e14b0", 
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/4/e/a/a446-dad4-4105-94f7-fecdd64e14b0", 
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/1/4/e/a/a446-dad4-4105-94f7-fecdd64e14b0"
+            }, 
+            "repost_count": 66, 
+            "updated_time": "2018-08-06T00:07:34Z", 
+            "comment_count": 12
+        }, 
+        {
+            "tags": [
+                {
+                    "url": "https://www.mixcloud.com/discover/hip-hop/", 
+                    "name": "Hip hop", 
+                    "key": "/discover/hip-hop/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/podcast/", 
+                    "name": "Podcast", 
+                    "key": "/discover/podcast/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/talk-show/", 
+                    "name": "Talk show", 
+                    "key": "/discover/talk-show/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/culture/", 
+                    "name": "Culture", 
+                    "key": "/discover/culture/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/serious-rap-shit/", 
+                    "name": "Serious Rap Shit", 
+                    "key": "/discover/serious-rap-shit/"
+                }
+            ], 
+            "play_count": 895, 
+            "user": {
+                "url": "https://www.mixcloud.com/brooklynradio/", 
+                "username": "brooklynradio", 
+                "name": "Brooklyn Radio", 
+                "key": "/brooklynradio/", 
+                "pictures": {
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg"
+                }
+            }, 
+            "key": "/brooklynradio/episode-68-live-from-the-layup-line-aka-the-chaos-episode-serious-rap-sht-podcast/", 
+            "created_time": "2018-08-02T00:54:16Z", 
+            "audio_length": 3843, 
+            "slug": "episode-68-live-from-the-layup-line-aka-the-chaos-episode-serious-rap-sht-podcast", 
+            "favorite_count": 19, 
+            "listener_count": 104, 
+            "name": "Episode 68: Live From the Layup Line aka the Chaos Episode (Serious Rap Sh*t Podcast)", 
+            "url": "https://www.mixcloud.com/brooklynradio/episode-68-live-from-the-layup-line-aka-the-chaos-episode-serious-rap-sht-podcast/", 
+            "pictures": {
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/b/5/1/7/82b6-9056-4ada-ac13-7ecd35d2539d", 
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/b/5/1/7/82b6-9056-4ada-ac13-7ecd35d2539d", 
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/b/5/1/7/82b6-9056-4ada-ac13-7ecd35d2539d", 
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/b/5/1/7/82b6-9056-4ada-ac13-7ecd35d2539d", 
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/b/5/1/7/82b6-9056-4ada-ac13-7ecd35d2539d", 
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/b/5/1/7/82b6-9056-4ada-ac13-7ecd35d2539d", 
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/b/5/1/7/82b6-9056-4ada-ac13-7ecd35d2539d", 
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/b/5/1/7/82b6-9056-4ada-ac13-7ecd35d2539d", 
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/b/5/1/7/82b6-9056-4ada-ac13-7ecd35d2539d", 
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/b/5/1/7/82b6-9056-4ada-ac13-7ecd35d2539d"
+            }, 
+            "repost_count": 8, 
+            "updated_time": "2018-08-02T00:53:22Z", 
+            "comment_count": 1
+        }, 
+        {
+            "tags": [
+                {
+                    "url": "https://www.mixcloud.com/discover/hip-hop/", 
+                    "name": "Hip hop", 
+                    "key": "/discover/hip-hop/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/rap/", 
+                    "name": "Rap", 
+                    "key": "/discover/rap/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/rnbhip-hop/", 
+                    "name": "RnB/Hip Hop", 
+                    "key": "/discover/rnbhip-hop/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/beats/", 
+                    "name": "Beats", 
+                    "key": "/discover/beats/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/bass/", 
+                    "name": "Bass", 
+                    "key": "/discover/bass/"
+                }
+            ], 
+            "play_count": 4608, 
+            "user": {
+                "url": "https://www.mixcloud.com/brooklynradio/", 
+                "username": "brooklynradio", 
+                "name": "Brooklyn Radio", 
+                "key": "/brooklynradio/", 
+                "pictures": {
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg"
+                }
+            }, 
+            "key": "/brooklynradio/100-beats-by-buckwild-dj-stikmand/", 
+            "created_time": "2018-08-01T00:47:34Z", 
+            "audio_length": 4797, 
+            "slug": "100-beats-by-buckwild-dj-stikmand", 
+            "favorite_count": 278, 
+            "listener_count": 1397, 
+            "name": "100% Beats By Buckwild (DJ Stikmand)", 
+            "url": "https://www.mixcloud.com/brooklynradio/100-beats-by-buckwild-dj-stikmand/", 
+            "pictures": {
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/7/6/6/5/0e8b-775d-472b-9010-c6143cad8e1e", 
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/7/6/6/5/0e8b-775d-472b-9010-c6143cad8e1e", 
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/7/6/6/5/0e8b-775d-472b-9010-c6143cad8e1e", 
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/7/6/6/5/0e8b-775d-472b-9010-c6143cad8e1e", 
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/7/6/6/5/0e8b-775d-472b-9010-c6143cad8e1e", 
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/7/6/6/5/0e8b-775d-472b-9010-c6143cad8e1e", 
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/7/6/6/5/0e8b-775d-472b-9010-c6143cad8e1e", 
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/7/6/6/5/0e8b-775d-472b-9010-c6143cad8e1e", 
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/7/6/6/5/0e8b-775d-472b-9010-c6143cad8e1e", 
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/7/6/6/5/0e8b-775d-472b-9010-c6143cad8e1e"
+            }, 
+            "repost_count": 66, 
+            "updated_time": "2018-08-01T00:44:24Z", 
+            "comment_count": 4
+        }, 
+        {
+            "tags": [
+                {
+                    "url": "https://www.mixcloud.com/discover/hip-hop/", 
+                    "name": "Hip hop", 
+                    "key": "/discover/hip-hop/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/talk-show/", 
+                    "name": "Talk show", 
+                    "key": "/discover/talk-show/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/podcast/", 
+                    "name": "Podcast", 
+                    "key": "/discover/podcast/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/interviews/", 
+                    "name": "Interviews", 
+                    "key": "/discover/interviews/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/leschea-show/", 
+                    "name": "Leschea Show", 
+                    "key": "/discover/leschea-show/"
+                }
+            ], 
+            "play_count": 317, 
+            "user": {
+                "url": "https://www.mixcloud.com/brooklynradio/", 
+                "username": "brooklynradio", 
+                "name": "Brooklyn Radio", 
+                "key": "/brooklynradio/", 
+                "pictures": {
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg"
+                }
+            }, 
+            "key": "/brooklynradio/ladies-of-the-morning-leschea-show/", 
+            "created_time": "2018-08-01T00:22:06Z", 
+            "audio_length": 1956, 
+            "slug": "ladies-of-the-morning-leschea-show", 
+            "favorite_count": 17, 
+            "listener_count": 51, 
+            "name": "Ladies Of The Morning (Leschea Show)", 
+            "url": "https://www.mixcloud.com/brooklynradio/ladies-of-the-morning-leschea-show/", 
+            "pictures": {
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/3/c/1/7/76f4-33ab-4f6f-b9f9-e06daa0618f4", 
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/3/c/1/7/76f4-33ab-4f6f-b9f9-e06daa0618f4", 
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/3/c/1/7/76f4-33ab-4f6f-b9f9-e06daa0618f4", 
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/3/c/1/7/76f4-33ab-4f6f-b9f9-e06daa0618f4", 
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/3/c/1/7/76f4-33ab-4f6f-b9f9-e06daa0618f4", 
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/3/c/1/7/76f4-33ab-4f6f-b9f9-e06daa0618f4", 
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/3/c/1/7/76f4-33ab-4f6f-b9f9-e06daa0618f4", 
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/3/c/1/7/76f4-33ab-4f6f-b9f9-e06daa0618f4", 
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/3/c/1/7/76f4-33ab-4f6f-b9f9-e06daa0618f4", 
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/3/c/1/7/76f4-33ab-4f6f-b9f9-e06daa0618f4"
+            }, 
+            "repost_count": 4, 
+            "updated_time": "2018-08-01T00:19:31Z", 
+            "comment_count": 0
+        }, 
+        {
+            "tags": [
+                {
+                    "url": "https://www.mixcloud.com/discover/beats/", 
+                    "name": "Beats", 
+                    "key": "/discover/beats/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/lo-fi/", 
+                    "name": "Lo-fi", 
+                    "key": "/discover/lo-fi/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/hip-hop/", 
+                    "name": "Hip hop", 
+                    "key": "/discover/hip-hop/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/instrumental/", 
+                    "name": "Instrumental", 
+                    "key": "/discover/instrumental/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/inner-ocean-records/", 
+                    "name": "Inner ocean records", 
+                    "key": "/discover/inner-ocean-records/"
+                }
+            ], 
+            "play_count": 1568, 
+            "user": {
+                "url": "https://www.mixcloud.com/brooklynradio/", 
+                "username": "brooklynradio", 
+                "name": "Brooklyn Radio", 
+                "key": "/brooklynradio/", 
+                "pictures": {
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg"
+                }
+            }, 
+            "key": "/brooklynradio/the-spotlight-inner-ocean-records/", 
+            "created_time": "2018-07-30T01:31:38Z", 
+            "audio_length": 3352, 
+            "slug": "the-spotlight-inner-ocean-records", 
+            "favorite_count": 60, 
+            "listener_count": 541, 
+            "name": "The Spotlight - Inner Ocean Records", 
+            "url": "https://www.mixcloud.com/brooklynradio/the-spotlight-inner-ocean-records/", 
+            "pictures": {
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/7/a/3/5/543f-dad2-4b80-b183-23aa30a0b3aa", 
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/7/a/3/5/543f-dad2-4b80-b183-23aa30a0b3aa", 
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/7/a/3/5/543f-dad2-4b80-b183-23aa30a0b3aa", 
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/7/a/3/5/543f-dad2-4b80-b183-23aa30a0b3aa", 
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/7/a/3/5/543f-dad2-4b80-b183-23aa30a0b3aa", 
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/7/a/3/5/543f-dad2-4b80-b183-23aa30a0b3aa", 
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/7/a/3/5/543f-dad2-4b80-b183-23aa30a0b3aa", 
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/7/a/3/5/543f-dad2-4b80-b183-23aa30a0b3aa", 
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/7/a/3/5/543f-dad2-4b80-b183-23aa30a0b3aa", 
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/7/a/3/5/543f-dad2-4b80-b183-23aa30a0b3aa"
+            }, 
+            "repost_count": 16, 
+            "updated_time": "2018-07-30T01:28:25Z", 
+            "comment_count": 1
+        }, 
+        {
+            "tags": [], 
+            "play_count": 2093, 
+            "user": {
+                "url": "https://www.mixcloud.com/brooklynradio/", 
+                "username": "brooklynradio", 
+                "name": "Brooklyn Radio", 
+                "key": "/brooklynradio/", 
+                "pictures": {
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg"
+                }
+            }, 
+            "key": "/brooklynradio/capitol-1212-we-do-it-up-in-the-sunshine/", 
+            "created_time": "2018-07-26T08:25:43Z", 
+            "audio_length": 3894, 
+            "slug": "capitol-1212-we-do-it-up-in-the-sunshine", 
+            "favorite_count": 68, 
+            "listener_count": 657, 
+            "name": "Capitol 1212 - We Do It Up In The Sunshine", 
+            "url": "https://www.mixcloud.com/brooklynradio/capitol-1212-we-do-it-up-in-the-sunshine/", 
+            "pictures": {
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/7/8/7/b/c8c7-4c32-4e78-85c3-73bb7cfb897c", 
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/7/8/7/b/c8c7-4c32-4e78-85c3-73bb7cfb897c", 
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/7/8/7/b/c8c7-4c32-4e78-85c3-73bb7cfb897c", 
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/7/8/7/b/c8c7-4c32-4e78-85c3-73bb7cfb897c", 
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/7/8/7/b/c8c7-4c32-4e78-85c3-73bb7cfb897c", 
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/7/8/7/b/c8c7-4c32-4e78-85c3-73bb7cfb897c", 
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/7/8/7/b/c8c7-4c32-4e78-85c3-73bb7cfb897c", 
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/7/8/7/b/c8c7-4c32-4e78-85c3-73bb7cfb897c", 
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/7/8/7/b/c8c7-4c32-4e78-85c3-73bb7cfb897c", 
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/7/8/7/b/c8c7-4c32-4e78-85c3-73bb7cfb897c"
+            }, 
+            "repost_count": 16, 
+            "updated_time": "2018-07-26T08:17:03Z", 
+            "comment_count": 3
+        }, 
+        {
+            "tags": [
+                {
+                    "url": "https://www.mixcloud.com/discover/hip-hop/", 
+                    "name": "Hip hop", 
+                    "key": "/discover/hip-hop/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/talk-show/", 
+                    "name": "Talk show", 
+                    "key": "/discover/talk-show/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/podcast/", 
+                    "name": "Podcast", 
+                    "key": "/discover/podcast/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/culture/", 
+                    "name": "Culture", 
+                    "key": "/discover/culture/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/serious-rap-shit/", 
+                    "name": "Serious Rap Shit", 
+                    "key": "/discover/serious-rap-shit/"
+                }
+            ], 
+            "play_count": 936, 
+            "user": {
+                "url": "https://www.mixcloud.com/brooklynradio/", 
+                "username": "brooklynradio", 
+                "name": "Brooklyn Radio", 
+                "key": "/brooklynradio/", 
+                "pictures": {
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg"
+                }
+            }, 
+            "key": "/brooklynradio/episode-67-respect-is-the-order-of-the-day-serious-rap-sht-podcast/", 
+            "created_time": "2018-07-26T01:12:34Z", 
+            "audio_length": 4084, 
+            "slug": "episode-67-respect-is-the-order-of-the-day-serious-rap-sht-podcast", 
+            "favorite_count": 25, 
+            "listener_count": 141, 
+            "name": "Episode 67: Respect is the Order of the Day (Serious Rap Sh*t Podcast)", 
+            "url": "https://www.mixcloud.com/brooklynradio/episode-67-respect-is-the-order-of-the-day-serious-rap-sht-podcast/", 
+            "pictures": {
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/1/1/b/0/37cf-4bd4-4477-900b-0b7822f410f0", 
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/1/1/b/0/37cf-4bd4-4477-900b-0b7822f410f0", 
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/1/1/b/0/37cf-4bd4-4477-900b-0b7822f410f0", 
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/1/1/b/0/37cf-4bd4-4477-900b-0b7822f410f0", 
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/1/1/b/0/37cf-4bd4-4477-900b-0b7822f410f0", 
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/1/1/b/0/37cf-4bd4-4477-900b-0b7822f410f0", 
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/1/1/b/0/37cf-4bd4-4477-900b-0b7822f410f0", 
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/1/1/b/0/37cf-4bd4-4477-900b-0b7822f410f0", 
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/1/b/0/37cf-4bd4-4477-900b-0b7822f410f0", 
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/1/1/b/0/37cf-4bd4-4477-900b-0b7822f410f0"
+            }, 
+            "repost_count": 6, 
+            "updated_time": "2018-07-26T01:09:57Z", 
+            "comment_count": 0
+        }, 
+        {
+            "tags": [
+                {
+                    "url": "https://www.mixcloud.com/discover/hip-hop/", 
+                    "name": "Hip hop", 
+                    "key": "/discover/hip-hop/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/rap/", 
+                    "name": "Rap", 
+                    "key": "/discover/rap/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/house/", 
+                    "name": "House", 
+                    "key": "/discover/house/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/funk/", 
+                    "name": "Funk", 
+                    "key": "/discover/funk/"
+                }, 
+                {
+                    "url": "https://www.mixcloud.com/discover/soul/", 
+                    "name": "Soul", 
+                    "key": "/discover/soul/"
+                }
+            ], 
+            "play_count": 2873, 
+            "user": {
+                "url": "https://www.mixcloud.com/brooklynradio/", 
+                "username": "brooklynradio", 
+                "name": "Brooklyn Radio", 
+                "key": "/brooklynradio/", 
+                "pictures": {
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg", 
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/e/8/f/b/8969-e399-4aa1-b73e-88b68d282e13.jpg"
+                }
+            }, 
+            "key": "/brooklynradio/rub-radio-july-2018/", 
+            "created_time": "2018-07-25T00:25:09Z", 
+            "audio_length": 2417, 
+            "slug": "rub-radio-july-2018", 
+            "favorite_count": 109, 
+            "listener_count": 892, 
+            "name": "Rub Radio (July 2018)", 
+            "url": "https://www.mixcloud.com/brooklynradio/rub-radio-july-2018/", 
+            "pictures": {
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/8/c/c/0/3865-544e-4e0a-9db9-3ceb011dbd9a", 
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/8/c/c/0/3865-544e-4e0a-9db9-3ceb011dbd9a", 
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/8/c/c/0/3865-544e-4e0a-9db9-3ceb011dbd9a", 
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/8/c/c/0/3865-544e-4e0a-9db9-3ceb011dbd9a", 
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/8/c/c/0/3865-544e-4e0a-9db9-3ceb011dbd9a", 
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/8/c/c/0/3865-544e-4e0a-9db9-3ceb011dbd9a", 
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/8/c/c/0/3865-544e-4e0a-9db9-3ceb011dbd9a", 
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/8/c/c/0/3865-544e-4e0a-9db9-3ceb011dbd9a", 
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/8/c/c/0/3865-544e-4e0a-9db9-3ceb011dbd9a", 
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/8/c/c/0/3865-544e-4e0a-9db9-3ceb011dbd9a"
+            }, 
+            "repost_count": 25, 
+            "updated_time": "2018-07-25T00:21:46Z", 
+            "comment_count": 1
+        }
+    ], 
+    "name": "Brooklyn Radio's Cloudcasts"
+}

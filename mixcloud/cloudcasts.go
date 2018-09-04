@@ -22,24 +22,23 @@ import (
 	"time"
 )
 
-func (c* Client) GetFeed(name string) (*Feed, error) {
-	url := fmt.Sprintf("%v/feed/", name)
-	fmt.Println(url)
+func (c* Client) GetCloudcasts(name string) (*Cloudcasts, error) {
+	url := fmt.Sprintf("%v/cloudcasts/", name)
 	req, err := c.newRequest("GET", url, nil)
 	if err != nil {
 		return nil, err
 	}
-	var feed Feed
-	_, err = c.do(req, &feed)
-	return &feed, err
+	var cloudcasts Cloudcasts
+	_, err = c.do(req, &cloudcasts)
+	return &cloudcasts, err
 }
 
-type Feed struct {
+type Cloudcasts struct {
 	Paging	Link		`json:"paging,Link"`
-	Data	[]FeedData
+	Data	[]CloudcastData
 }
 
-type FeedData struct {
+type CloudcastData struct {
 	URL       	string		`json:"url"`
 	CreatedTime	time.Time	`json:"created_time,string"`
 	Key			string 		`json:"key"`
