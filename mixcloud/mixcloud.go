@@ -47,7 +47,11 @@ func NewClient(httpClient *http.Client) *Client {
 func (c *Client) newRequest(method, path string, body interface{}) (*http.Request, error) {
 	rel := &url.URL{Path: path}
 	u := c.BaseURL.ResolveReference(rel)
-	fmt.Println(u)
+	req, err := c.rawRequest(method, u.String(), body)
+	return req, err
+}
+
+func (c *Client) rawRequest(method, fullPath string, body interface{}) (*http.Request, error) {
 	var buf io.ReadWriter
 	if body != nil {
 		buf = new(bytes.Buffer)
@@ -56,7 +60,7 @@ func (c *Client) newRequest(method, path string, body interface{}) (*http.Reques
 			return nil, err
 		}
 	}
-	req, err := http.NewRequest(method, u.String(), buf)
+	req, err := http.NewRequest(method, fullPath, buf)
 	if err != nil {
 		return nil, err
 	}

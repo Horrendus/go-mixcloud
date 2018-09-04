@@ -22,15 +22,15 @@ import (
 	"time"
 )
 
-func (c* Client) GetCloudcasts(name string) (*Cloudcasts, error) {
+func (c* Client) GetCloudcasts(name string) (Cloudcasts, error) {
 	url := fmt.Sprintf("%v/cloudcasts/", name)
 	req, err := c.newRequest("GET", url, nil)
-	if err != nil {
-		return nil, err
-	}
 	var cloudcasts Cloudcasts
+	if err != nil {
+		return cloudcasts, err
+	}
 	_, err = c.do(req, &cloudcasts)
-	return &cloudcasts, err
+	return cloudcasts, err
 }
 
 type Cloudcasts struct {
