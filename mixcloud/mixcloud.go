@@ -82,7 +82,7 @@ func (c *Client) do(req *http.Request, v interface{}) (*http.Response, error) {
 	return resp, err
 }
 
-func addListOptions(s string, opt ListOptions) (string, error) {
+func addListOptions(s string, opt *ListOptions) (string, error) {
 	v := reflect.ValueOf(opt)
 	if v.Kind() == reflect.Ptr && v.IsNil() {
 		return s, nil

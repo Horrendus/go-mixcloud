@@ -9,7 +9,7 @@ import (
 
 func TestRetrieveCloudcasts(t *testing.T) {
 	c := mixcloud.NewClient(nil)
-	cloudcasts1, err := c.GetCloudcasts("zanjradio")
+	cloudcasts1, err := c.GetCloudcasts("zanjradio", nil)
 	fmt.Println("Error:", err)
 	fmt.Println(cloudcasts1)
 	fmt.Println("FeedData Length:", len(cloudcasts1.Data))
@@ -19,7 +19,7 @@ func TestRetrieveAllCloudcasts(t *testing.T) {
 	c := mixcloud.NewClient(nil)
 	var allCloudcastsData []mixcloud.CloudcastData
 	pages := 1
-	cloudcasts, err := c.GetCloudcasts("zanjradio")
+	cloudcasts, err := c.GetCloudcasts("zanjradio", nil)
 	if err != nil {
 		t.Fail()
 	}

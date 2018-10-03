@@ -22,8 +22,11 @@ import (
 	"time"
 )
 
-func (c* Client) GetCloudcasts(name string) (Cloudcasts, error) {
+func (c* Client) GetCloudcasts(name string, options *ListOptions) (Cloudcasts, error) {
 	url := fmt.Sprintf("%v/cloudcasts/", name)
+	if options != nil {
+		url, _ = addListOptions(url, options)
+	}
 	req, err := c.newRequest("GET", url, nil)
 	var cloudcasts Cloudcasts
 	if err != nil {
@@ -39,7 +42,7 @@ type Cloudcasts struct {
 }
 
 type CloudcastData struct {
-	Name			string		`jsn:"name"`
+	Name			string		`json:"name"`
 	URL       		string		`json:"url"`
 
 	CreatedTime		time.Time	`json:"created_time,string"`
@@ -55,5 +58,4 @@ type CloudcastData struct {
 	FavoriteCount	int			`json:"favorite_count"`
 	CommentCount	int			`json:"comment_count"`
 	RepostCount		int			`json:"repost_count"`
-
 }
