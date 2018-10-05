@@ -20,7 +20,6 @@ package mixcloud
 import (
 	"bytes"
 	"encoding/json"
-	"fmt"
 	"github.com/google/go-querystring/query"
 	"io"
 	"net/http"
@@ -96,7 +95,6 @@ func addListOptions(s string, opt *ListOptions) (string, error) {
 		opt.Limit = 100
 	}
 	if !opt.Since.IsZero() || !opt.Until.IsZero() {
-		fmt.Println("Resetting offset to 0. Before:", opt.Offset)
 		opt.Offset = 0
 	}
 

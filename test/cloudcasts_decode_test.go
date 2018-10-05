@@ -53,6 +53,14 @@ func TestParsingCloudcastsStructEmpty(t *testing.T) {
 	fmt.Println("Data Length:", len(Cloudcasts.Data))
 }
 
+func TestParsingCloudcastsStructEmpty2(t *testing.T) {
+	var Cloudcasts mixcloud.Cloudcasts
+	readFileAndDecodeToCloudcasts("./testdata/cloudcasts_empty_2.json", &Cloudcasts, t)
+	fmt.Println("Paging Prev:", Cloudcasts.Paging.PreviousURL, Cloudcasts.Paging.PreviousURL == "")
+	fmt.Println("Paging Next:", Cloudcasts.Paging.NextURL, Cloudcasts.Paging.NextURL == "")
+	fmt.Println("Data Length:", len(Cloudcasts.Data))
+}
+
 func readFileAndDecodeToCloudcasts(fileName string, Cloudcasts *mixcloud.Cloudcasts, t *testing.T) {
 	file, e := ioutil.ReadFile(fileName)
 	if e != nil {
