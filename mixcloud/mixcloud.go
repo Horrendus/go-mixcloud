@@ -45,7 +45,7 @@ func NewClient(httpClient *http.Client) *Client {
 }
 
 func (c *Client) newRequest(method, path string, body interface{}) (*http.Request, error) {
-	rel := &url.URL{Path: path}
+	rel, _ := url.Parse(path)
 	u := c.BaseURL.ResolveReference(rel)
 	req, err := c.rawRequest(method, u.String(), body)
 	return req, err

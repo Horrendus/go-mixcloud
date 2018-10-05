@@ -3,13 +3,17 @@ package test
 import (
 	"fmt"
 	"testing"
+	"time"
 
 	"github.com/horrendus/go-mixcloud/mixcloud"
 )
 
 func TestRetrieveCloudcasts(t *testing.T) {
 	c := mixcloud.NewClient(nil)
-	cloudcasts1, err := c.GetCloudcasts("zanjradio", nil)
+	var opt mixcloud.ListOptions
+	opt.Since = time.Unix(1476230400,0)
+	opt.Until = time.Unix(1496230400,0)
+	cloudcasts1, err := c.GetCloudcasts("zanjradio", &opt)
 	fmt.Println("Error:", err)
 	fmt.Println(cloudcasts1)
 	fmt.Println("FeedData Length:", len(cloudcasts1.Data))
