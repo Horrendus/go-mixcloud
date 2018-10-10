@@ -27,6 +27,8 @@ import (
 	"reflect"
 )
 
+const defaultBaseURL = "https://api.mixcloud.com/"
+
 type Client struct {
 	BaseURL   *url.URL
 	UserAgent string
@@ -38,7 +40,7 @@ func NewClient(httpClient *http.Client) *Client {
 	if httpClient == nil {
 		httpClient = http.DefaultClient
 	}
-	baseURL, _ := url.Parse("https://api.mixcloud.com/")
+	baseURL, _ := url.Parse(defaultBaseURL)
 	c := &Client {httpClient: httpClient, BaseURL: baseURL}
 	return c
 }
