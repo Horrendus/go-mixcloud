@@ -17,11 +17,17 @@
 
 package mixcloud
 
-import "time"
+// Function can be used to get next/previous page on paginated APIs
+func (c *Client) GetPage(fullURL string, out interface{}) error {
+	req, err := c.rawRequest("GET", fullURL, nil)
+	if err != nil {
+		return err
+	}
+	_, err = c.do(req, out)
+	return err
+}
 
-type ListOptions struct {
-	Limit int		`url:"limit"`
-	Offset int		`url:"offset,omitempty"`
-	Since time.Time	`url:"since,omitempty,unix"`
-	Until time.Time `url:"until,omitempty,unix"`
+type Link struct {
+	PreviousURL string `json:"previous,omitempty"`
+	NextURL     string `json:"next,omitempty"`
 }

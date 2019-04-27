@@ -41,7 +41,7 @@ func NewClient(httpClient *http.Client) *Client {
 		httpClient = http.DefaultClient
 	}
 	baseURL, _ := url.Parse(defaultBaseURL)
-	c := &Client {httpClient: httpClient, BaseURL: baseURL}
+	c := &Client{httpClient: httpClient, BaseURL: baseURL}
 	return c
 }
 
