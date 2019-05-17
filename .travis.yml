@@ -18,7 +18,7 @@ before_install:
 
 script:
   - go test -v -tags ci ./...
-  - if [[ $TRAVIS_GO_VERSION == 1.12* ]]; then $GOPATH/bin/goveralls -service=travis-ci -ignore="examples/callbacks/callbacks.go,examples/dataloader/dataloader.go,examples/mycachedapp/mycachedapp.go"; fi
+  - if [[ $TRAVIS_GO_VERSION == 1.12* ]]; then $GOPATH/bin/goveralls -service=travis-ci; fi
 
 notifications:
   email:
